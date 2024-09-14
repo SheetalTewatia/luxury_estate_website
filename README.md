@@ -1,10 +1,10 @@
 # real-estate-project
 
-## REPORT ON VI VASTARA VALLEY REAL ESTATE WEBSITE
+## REPORT ON VISTARA VALLEY REAL ESTATE WEBSITE
 
 
 ### OVERVIEW
-The project ‘Vihar Valley’ is a real estate related website made using HTML and CSS for clients to get to know about what the company is about and their services.
+The project ‘Vistara Valley’ is a real estate related website made using HTML and CSS for clients to get to know about what the company is about and their services.
 
 ### GOALS
 - Landing page for the real estate company.
